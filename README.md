@@ -1,1 +1,1 @@
-# Unit-3-Lesson-2---Exercise-in-Bayes-Rule
+# Thinkful 3.2.6 - Exercise-in-Bayes-Rule
